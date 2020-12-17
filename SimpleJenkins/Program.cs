@@ -11,6 +11,7 @@ namespace SimpleJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("First Jenikins Project");
+            Console.WriteLine("Error Line")
         }
     }
 }
